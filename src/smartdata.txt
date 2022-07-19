@@ -1,0 +1,53 @@
+
+const smartWatches=[
+    { 
+        image:"https://rukminim1.flixcart.com/image/416/416/l5ld8y80/smartwatch/r/q/t/-original-imagg8dksgct9hxg.jpeg?q=70",
+        brand:"Noise",
+        price:"₹3,999",
+        summary:"Noise ColorFit Icon 2 1.8 Display, Bluetooth Calling, AI Voice Assistance Smartwatch  (Black Strap, Regular",
+    },
+     { 
+        image:"https://rukminim1.flixcart.com/image/416/416/l5ld8y80/smartwatch/i/x/7/-original-imagg8dtmvmmyzfd.jpeg?q=70",
+        brand:"Noise",
+        price:"₹3,999",
+        summary:"Noise ColorFit Icon 2 1.8 Display, Bluetooth Calling, AI Voice Assistance Smartwatch  (Pink Strap, Regular)",
+    },
+     { 
+        image:"https://rukminim1.flixcart.com/image/416/416/kyhlfgw0/smartwatch/5/l/q/-original-imagaptb3zkpufkh.jpeg?q=70",
+        brand:"Fire-Bolt",
+        price:"₹2,499",
+        summary:"Fire-Boltt Ninja Pro Max Smartwatch  (Pink Strap, Free Size)",
+    },
+     { 
+        image:"https://rukminim1.flixcart.com/image/416/416/l1pc3gw0/smartwatch/z/n/6/-original-imagd7d7hxrcguhv.jpeg?q=70",
+        brand:"Fire-Bolt",
+        price:"₹2,999",
+        summary:"Fire-Boltt Hurricane Smartwatch  (Pink Strap, Free Size)",
+    },
+     { 
+        image:"https://rukminim1.flixcart.com/image/416/416/l572ufk0/smartwatch/y/m/3/-original-imagfxk6qr4kmwwf.jpeg?q=70",
+        brand:"boAt Storm",
+        price:"₹3,999",
+        summary:"boAt Storm Pro with 1.78" AMOLED Display, 700+ Active Modes Smartwatch  (Blue Strap, Free Size),
+    },
+    { 
+        image:"https://rukminim1.flixcart.com/image/416/416/kzx1a4w0/smartwatch/a/v/m/-original-imagbtfvyu9bhvzq.jpeg?q=70",
+        brand:"DIZO",
+        price:"₹3,999",
+        summary:"DIZO Watch 2 Sports (by realme TechLife)  (Green Strap, Free Size)#JustHere
+",
+    },
+    { 
+        image:"https://rukminim1.flixcart.com/image/416/416/kyvvtzk0/smartwatch/j/x/l/43-android-ios-bsw025-fire-boltt-yes-original-imagbyuckrbfhpbn.jpeg?q=70",
+        brand:"Fire-Boltt",
+        price:"₹3,999",
+        summary:"Fire-Boltt Ninja Call 2 (1.7 inch) Bluetooth Calling with 27 Sports Modes Smartwatch  (Blue Strap, Free Size)",
+    },
+    { 
+        image:"https://rukminim1.flixcart.com/image/416/416/kxdl3m80/smartwatch/y/9/i/43-android-ios-wrb-sw-colorfitcaliber-std-blu-blu-noise-no-original-imag9ukqry8xgfq2.jpeg?q=70",
+        brand:"Noise",
+        price:"₹3,999",
+        summary:"Noise ColorFit Caliber Smartwatch  (Blue Strap, Regular)",
+    }
+
+]
